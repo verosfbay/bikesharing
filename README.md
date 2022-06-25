@@ -8,3 +8,5 @@ To convince investors that a bike-sharing program in Des Moines is a solid busin
 * Jupyter Notebook
 * Pandas
 
+[link to dashboard](https://public.tableau.com/views/Bikesharingchallenge_16561810030240/BikeshareStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+
