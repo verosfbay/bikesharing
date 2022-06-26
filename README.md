@@ -28,10 +28,9 @@ The "Trips by Weekday per Hour" graph shows that Mondays through Fridays, the mo
 The "Trips by Gender by Weekday" shows that Thursdays and Fridays are the most popular days to ride citibikes.
 
 <img width="1013" alt="Screen Shot 2022-06-25 at 4 58 09 PM" src="https://user-images.githubusercontent.com/95447175/175794045-817d4d3a-afff-4ed6-a62f-7a8f948ed3a0.png">
-Showing the most popular stations in the city for starting a bike journey.
+Showing the most popular stations in the city for starting a bike journey. The most popular station has the coordinates 40.751900, -73.977700. 
 
 <img width="993" alt="Screen Shot 2022-06-25 at 4 58 35 PM" src="https://user-images.githubusercontent.com/95447175/175794056-8dfce984-00a3-4356-92fd-0e3e07790c6c.png">
-Showing the most popular stations in the city for ending a bike journey.
-
+Showing the most popular stations in the city for ending a bike journey. The most popular station has the coordinates 40.7519, -73.9777. 
 
 ## Summary
