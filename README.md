@@ -19,13 +19,13 @@ The "Checkout Times for Users" graph shows that, on average, most users checkout
 The "Checkout Times by Gender" graph shows that in comparison to males, females tend to checkout bikes for one additional minute (5 minutes vs 6 minutes).
 
 <img width="1017" alt="Screen Shot 2022-06-25 at 4 56 45 PM" src="https://user-images.githubusercontent.com/95447175/175794021-76c9ca29-43e9-44f5-802d-5fa6d81d02f7.png">
-The "Trips by Gender (Weekday per Hour)" chart shows that the most popular trip times are consistenet between females and males.
+The "Trips by Gender (Weekday per Hour)" chart shows that the most popular trip times are consistent between females and males.
 
 <img width="1018" alt="Screen Shot 2022-06-25 at 4 57 04 PM" src="https://user-images.githubusercontent.com/95447175/175794026-f081c599-62da-4db6-889a-13e3784c0b3e.png">
-The "Trips by Weekday per Hour" graph shows that Mondays through Fridays, the most popular trip times are between 7-10am and 4-8pm. For Saturtdays and Sundays, the most popular trip times are between 10am-8pm.
+The "Trips by Weekday per Hour" graph shows that Mondays through Fridays, the most popular trip times are between 7-10am and 4-8pm. For Saturdays and Sundays, the most popular trip times are between 10am-8pm.
 
 <img width="1038" alt="Screen Shot 2022-06-25 at 4 57 21 PM" src="https://user-images.githubusercontent.com/95447175/175794035-811fe2d8-b19c-4daa-b275-a2785cf4ff90.png">
-The "Trips by Gender by Weekday" shows that Thursdays and Fridays are the most popular days to ride citibikes.
+The "Trips by Gender by Weekday" shows that Thursdays and Fridays are the most popular days to ride bikes.
 
 <img width="1013" alt="Screen Shot 2022-06-25 at 4 58 09 PM" src="https://user-images.githubusercontent.com/95447175/175794045-817d4d3a-afff-4ed6-a62f-7a8f948ed3a0.png">
 Showing the most popular stations in the city for starting a bike journey. The most popular station has the coordinates 40.751900, -73.977700. 
